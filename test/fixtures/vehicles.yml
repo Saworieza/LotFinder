@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  mileage: 1
+  color: MyString
+  body_type: MyString
+  engine_type: MyString
+  VIN: MyString
+  transmission: MyString
+  brand: one
+  user: one
+
+two:
+  name: MyString
+  mileage: 1
+  color: MyString
+  body_type: MyString
+  engine_type: MyString
+  VIN: MyString
+  transmission: MyString
+  brand: two
+  user: two

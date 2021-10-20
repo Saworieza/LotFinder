@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>State:</strong>
+  <%= @damage.state %>
+</p>
+
+<p>
+  <strong>Primary:</strong>
+  <%= @damage.primary %>
+</p>
+
+<p>
+  <strong>Secondary:</strong>
+  <%= @damage.secondary %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @damage.value %>
+</p>
+
+<p>
+  <strong>Details:</strong>
+  <%= @damage.details %>
+</p>
+
+<p>
+  <strong>Vehicle:</strong>
+  <%= @damage.vehicle %>
+</p>
+
+<p>
+  <strong>User:</strong>
+  <%= @damage.user %>
+</p>
+
+<%= link_to 'Edit', edit_damage_path(@damage) %> |
+<%= link_to 'Back', damages_path %>

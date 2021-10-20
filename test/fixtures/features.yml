@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feature: MyString
+  vehicle: one
+  user: one
+
+two:
+  feature: MyString
+  vehicle: two
+  user: two

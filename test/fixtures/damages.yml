@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state: MyString
+  primary: MyString
+  secondary: MyString
+  value: 1
+  details: MyText
+  vehicle: one
+  user: one
+
+two:
+  state: MyString
+  primary: MyString
+  secondary: MyString
+  value: 1
+  details: MyText
+  vehicle: two
+  user: two
